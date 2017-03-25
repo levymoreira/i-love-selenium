@@ -1,7 +1,7 @@
 # Selenium Tests
 
-/selenium-java
+/selenium-java  
   Simple Java project with tests running on Google Chrome and Firefox 
 
-/selenium-js
+/selenium-js  
   TODO
